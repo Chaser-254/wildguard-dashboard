@@ -93,7 +93,7 @@ const MOCK_ALERTS: Alert[] = [createMockAlert('a1', 'ELEPHANT', new Date(Date.no
   region: 'Mtakuja Area',
   address: 'Mtakuja Central, Near Waterhole'
 }, 180, 88, 'S', 'DISPATCHED', new Date(Date.now() - 1000 * 60 * 19).toISOString() // 1 minute response time
-), createMockAlert('a3', 'LION', new Date(Date.now() - 1000 * 60 * 3).toISOString(), {
+), createMockAlert('a3', 'GIRAFFE', new Date(Date.now() - 1000 * 60 * 3).toISOString(), {
   lat: -3.434886,
   lng: 37.783987,
   region: 'Mtakuja Area',

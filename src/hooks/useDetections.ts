@@ -25,7 +25,7 @@ const generateDetections = (count: number): Detection[] => {
   }
   return detections;
 };
-const MOCK_DETECTIONS = generateDetections(15); // Reduced count for focused area
+const MOCK_DETECTIONS = generateDetections(10); // Reduced count for focused area
 
 export function useDetections() {
   const [detections] = useState<Detection[]>(MOCK_DETECTIONS);

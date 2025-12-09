@@ -234,7 +234,7 @@ export function Map({
             Elephant
           </div>
           <div className="flex items-center">
-            <div className="w-3 h-3 rounded-full bg-red-600 mr-2"></div> Lion
+            <div className="w-3 h-3 rounded-full bg-red-600 mr-2"></div> Giraffe
           </div>
           <div className="flex items-center">
             <div className="w-3 h-3 rounded-full bg-violet-600 mr-2"></div>{' '}

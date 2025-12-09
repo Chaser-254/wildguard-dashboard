@@ -1,4 +1,4 @@
-export type Species = 'ELEPHANT' | 'LION' | 'RHINO' | 'BUFFALO' | 'UNKNOWN';
+export type Species = 'ELEPHANT' | 'GIRAFFE' | 'RHINO' | 'BUFFALO' | 'UNKNOWN';
 export type ResponseStatus = 'PENDING' | 'DISPATCHED' | 'RESOLVED';
 export type RecipientGroup = 'KWS' | 'KRCS' | 'COMMUNITY';
 export type UserRole = 'ADMIN' | 'RANGER' | 'OBSERVER' | 'COMMUNITY';

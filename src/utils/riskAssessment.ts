@@ -13,7 +13,7 @@ timeOfDay: 'day' | 'night' = 'day'): RiskLevel {
 
   // Species risk factor (based on danger level)
   const speciesRisk: Record<Species, number> = {
-    LION: 40,
+    GIRAFFE: 40,
     ELEPHANT: 35,
     RHINO: 30,
     BUFFALO: 25,

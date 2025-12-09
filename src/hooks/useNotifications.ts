@@ -4,7 +4,7 @@ const getSafetyMessage = (species: string): string => {
   switch (species) {
     case 'ELEPHANT':
       return '⚠️ Stay indoors and keep a safe distance. Elephants can be unpredictable. Do not approach or provoke.';
-    case 'LION':
+    case 'GIRAFFE':
       return '🚨 DANGER: Remain indoors immediately. Lions are predators. Keep children and pets inside. Do not go outside until rangers arrive.';
     case 'RHINO':
       return '⚠️ Keep away from the area. Rhinos have poor eyesight but will charge if threatened. Stay in secure buildings.';

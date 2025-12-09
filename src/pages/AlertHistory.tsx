@@ -82,7 +82,7 @@ export function AlertHistory() {
   const getSpeciesIcon = (species: string) => {
     const icons: Record<string, string> = {
       ELEPHANT: '🐘',
-      LION: '🦁',
+      GIRAFFE: '🦁',
       BUFFALO: '🐃',
       RHINO: '🦏'
     };
